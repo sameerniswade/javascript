@@ -9,3 +9,4 @@ let accountState; // return undefine
    Because of issume in block scope and funtional scope
 */
 console.table([accountEmail,accountId, accountPassword, accountCity, accountState])
+console.log("hello")
