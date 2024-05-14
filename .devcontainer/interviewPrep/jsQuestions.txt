@@ -1,0 +1,7 @@
+1. What is hoisting in js?
+- hoisting allows you to use functions and variables before they're declared
+
+2. What is the difference between let and var?
+- scope
+
+3. What is the Event Loop?, What is precedence in the Event Loop?

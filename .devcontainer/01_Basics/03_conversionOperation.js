@@ -54,3 +54,18 @@ console.log(convertToString)
 
 // whatever writen in get coverted into string
 // eg NaN => "NaN"
+
+
+//////////////////////////////////////OPERATION//////////////////////
+
+console.log("operation-----------------------")
+console.log(1 + "1");  //11
+console.log("1" + 1);  // 11
+console.log(1 + 1 + "1"); // 21
+console.log("1" + 1 + 1);  //111
+
+console.log("-----------------------")
+console.log(+true) // 1
+console.log(+"")
+
+ 
