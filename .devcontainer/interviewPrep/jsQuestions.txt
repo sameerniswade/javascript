@@ -1,3 +1,5 @@
+--operator precedence
+-- dynamic or static type language 
 1. What is hoisting in js?
 - hoisting allows you to use functions and variables before they're declared
 

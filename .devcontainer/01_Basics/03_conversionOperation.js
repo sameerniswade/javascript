@@ -66,6 +66,6 @@ console.log("1" + 1 + 1);  //111
 
 console.log("-----------------------")
 console.log(+true) // 1
-console.log(+"")
+console.log(+"") //0
 
  
