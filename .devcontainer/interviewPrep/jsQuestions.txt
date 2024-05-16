@@ -7,3 +7,7 @@
 - scope
 
 3. What is the Event Loop?, What is precedence in the Event Loop?
+
+4. shallow copy and deep copy
+
+5. // slice and splice
