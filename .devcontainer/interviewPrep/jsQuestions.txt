@@ -11,3 +11,6 @@
 4. shallow copy and deep copy
 
 5. // slice and splice
+
+6. array function and normal functions // interm of scope
+7. singlton and nonsingleton objects

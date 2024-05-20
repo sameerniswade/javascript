@@ -22,3 +22,6 @@ console.log(typeof null) // return object
 console.log(typeof undefined) // return undefined
 
 
+//symbol
+
+const sym = Symbol("sameer")
