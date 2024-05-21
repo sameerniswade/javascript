@@ -1,5 +1,6 @@
 --operator precedence
 -- dynamic or static type language 
+
 1. What is hoisting in js?
 - hoisting allows you to use functions and variables before they're declared
 
@@ -8,9 +9,8 @@
 
 3. What is the Event Loop?, What is precedence in the Event Loop?
 
-4. shallow copy and deep copy
+3 . implicit and explicit return of functions
+ implicit ->  () => ()
+explicit  ->  () => {return }
 
-5. // slice and splice
-
-6. array function and normal functions // interm of scope
-7. singlton and nonsingleton objects
+4. name and unname iffe
